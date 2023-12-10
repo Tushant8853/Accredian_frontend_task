@@ -1,3 +1,18 @@
+Task 1: Frontend Development
+    Create captivating and responsive user interfaces for the login and sign-up forms using React.
+    The UI should be visually appealing, and intuitive, and include mandatory fields for both login, sign-up, and forgot.
+    Requirements:
+        1. Login Form:
+          a. Username or Email (mandatory)
+          b. Password (mandatory)
+        2. Sign-Up Form:
+          a. Username (mandatory)
+          b. Email (mandatory)
+          c. Password (mandatory)
+        3. Design Considerations:
+          a. Utilize Material-UI for building components and achieving a modern and visually appealing design.
+        ``b. Implement form validation for mandatory fields.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
