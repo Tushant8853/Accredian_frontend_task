@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Accredian-frontend-task/static/css/main.35a719ea.css",
+    "main.js": "/Accredian-frontend-task/static/js/main.e203f7db.js",
+    "static/js/787.c9c824d4.chunk.js": "/Accredian-frontend-task/static/js/787.c9c824d4.chunk.js",
+    "static/media/a.png": "/Accredian-frontend-task/static/media/a.7df79546d8307f05a5f4.png",
+    "index.html": "/Accredian-frontend-task/index.html",
+    "main.35a719ea.css.map": "/Accredian-frontend-task/static/css/main.35a719ea.css.map",
+    "main.e203f7db.js.map": "/Accredian-frontend-task/static/js/main.e203f7db.js.map",
+    "787.c9c824d4.chunk.js.map": "/Accredian-frontend-task/static/js/787.c9c824d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35a719ea.css",
+    "static/js/main.e203f7db.js"
+  ]
+}
